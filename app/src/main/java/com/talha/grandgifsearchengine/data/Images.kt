@@ -17,6 +17,6 @@ import java.io.Serializable
 data class Images(
 
         @SerializedName("original") val original: Original,
-        @SerializedName("preview_gif") val downsized_small: Downsized_small,
+        @SerializedName("preview_gif") val downsized_small: DownsizedSmall,
 
         ) : Serializable

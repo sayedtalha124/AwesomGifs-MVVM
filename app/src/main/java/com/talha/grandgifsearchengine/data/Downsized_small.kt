@@ -3,7 +3,7 @@ package com.talha.grandgifsearchengine.data
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
-data class Downsized_small(
+data class DownsizedSmall(
         @SerializedName("url") val url: String,
 
         @SerializedName("height") val height: Int,
