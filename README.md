@@ -2,7 +2,7 @@
 
 AwesomGifs-MVVM
 
-This is a Gif search engine
+This is a Gif search engine using Android Best Practices
 
 Build with
 
